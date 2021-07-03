@@ -20,7 +20,7 @@
     "team": "townsfolk",
     "firstNight": 0,
     "firstNightReminder": ""
-    "otherNight": 13,
+    "otherNight": 22,
     "otherNightReminder": "The Privateer points to two players. If they are different alignments, the Privateer dies.",
     "reminders": ["Dead"],
     "setup": false,
