@@ -20,7 +20,7 @@
     "team": "townsfolk",
     "firstNight": 0,
     "firstNightReminder": ""
-    "otherNight": 22,
+    "otherNight": 12,
     "otherNightReminder": "The Privateer points to two players. If they are different alignments, the Privateer dies.",
     "reminders": ["Dead"],
     "setup": false,
@@ -222,20 +222,6 @@
     "reminders": ["Drunk"],
     "setup": false,
     "ability": "If you are \u201Cmad\u201D about being an Outsider, you might be executed. Each night, chose an alive player. That player is drunk until they make a nomination."
-  },
-  {
-    "id": "mermaid",
-    "name": "Mermaid",
-    "edition": "HSoM",
-    "team": "outsider",
-    "firstNight": 0,
-    "firstNightReminder": ""
-    "otherNight": 21,
-    "otherNightReminder": "Nothing happens online.",
-    "reminders": [],
-    "remindersGlobal": [],
-    "setup": false,
-    "ability": "Each night*, raise your hand. If the Demon chooses you: they die & you become the evil Demon."
   },
   {
     "id": "stowaway",
