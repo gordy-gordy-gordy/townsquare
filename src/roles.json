@@ -13,6 +13,20 @@
     "setup": false,
     "ability": "Each night*, choose a player other than yourself. If that player dies tonight, you re-awake & may choose another player to die instead."
   },
+    {
+    "id": "privateer",
+    "name": "Privateer",
+    "edition": "HSoM",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 13,
+    "otherNightReminder": "The Privateer points to two players. If they are different alignments, the Privateer dies.",
+    "reminders": ["Reawake",
+        "Dead"],
+    "setup": false,
+    "ability": "Each night*, choose 2 players (not yourself). If they are different alignments, you die."
+  },
   {
     "id": "oldseadog",
     "name": "Old Seadog",
@@ -209,6 +223,19 @@
     "reminders": ["Drunk"],
     "setup": false,
     "ability": "If you are \u201Cmad\u201D about being an Outsider, you might be executed. Each night, chose an alive player. That player is drunk until they make a nomination."
+  },
+   {
+    "id": "mermaid",
+    "name": "Mermaid",
+    "edition": "HSoM",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 21,
+    "otherNightReminder": "Raise hand.",
+    "reminders": [],
+    "setup": false,
+    "ability": "Each night*, raise your hand. If the Demon chooses you: they die & you become the evil Demon."
   },
   {
     "id": "stowaway",
