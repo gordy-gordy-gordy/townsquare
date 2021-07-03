@@ -230,8 +230,8 @@
     "team": "outsider",
     "firstNight": 0,
     "firstNightReminder": ""
-    "otherNight": 0,
-    "otherNightReminder": "",
+    "otherNight": 21,
+    "otherNightReminder": "Nothing happens online.",
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
