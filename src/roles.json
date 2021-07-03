@@ -11,7 +11,7 @@
     "reminders": ["Reawake",
         "Dead"],
     "setup": false,
-    "ability": "Each night*, choose a player (not yourself). If that player dies tonight, you re-awake & may choose another player to die instead."
+    "ability": "Each night*, choose a player other than yourself. If that player dies tonight, you re-awake & may choose another player to die instead."
   },
   {
     "id": "oldseadog",
