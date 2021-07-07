@@ -1,7 +1,7 @@
 [
   {
     "id": "captain",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_captain.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_captain.png?raw=true",
     "name": "Captain",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -16,7 +16,7 @@
   },
     {
     "id": "privateer",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_privateer.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_privateer.png?raw=true",
     "name": "Privateer",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -31,7 +31,7 @@
   },
   {
     "id": "oldseadog",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_oldseadog.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_oldseadog.png?raw=true",
     "name": "Old Seadog",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -45,7 +45,7 @@
   },
   {
     "id": "buccaneer",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_buccaneer.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_buccaneer.png?raw=true",
     "name": "Buccaneer",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -60,7 +60,7 @@
   },
   {
     "id": "firstmate",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_firstmate.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_firstmate.png?raw=true",
     "name": "First Mate",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -74,7 +74,7 @@
   },
   {
     "id": "gunner",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_gunner.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_gunner.png?raw=true",
     "name": "Gunner",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -88,7 +88,7 @@
   },
   {
     "id": "powdermonkey",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_powdermonkey.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_powdermonkey.png?raw=true",
     "name": "Powder Monkey",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -102,7 +102,7 @@
   },
   {
     "id": "landlubber",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_landlubber.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_landlubber.png?raw=true",
     "name": "Landlubber",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -116,7 +116,7 @@
   },
   {
     "id": "surgeon",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_surgeon.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_surgeon.png?raw=true",
     "name": "Surgeon",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -130,7 +130,7 @@
   },
   {
     "id": "cook",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_cook.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_cook.png?raw=true",
     "name": "Cook",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -145,7 +145,7 @@
   },
   {
     "id": "navigator",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_navigator.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_navigator.png?raw=true",
     "name": "Navigator",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -159,7 +159,7 @@
   },
   {
     "id": "boatswain",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_boatswain.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_boatswain.png?raw=true",
     "name": "Boatswain",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -173,7 +173,7 @@
   },
   {
     "id": "wench",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_wench.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_wench.png?raw=true",
     "name": "Wench",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -187,7 +187,7 @@
   },
   {
     "id": "smuggler",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_smuggler.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_smuggler.png?raw=true",
     "name": "Smuggler",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -201,7 +201,7 @@
   },
   {
     "id": "hermit",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_hermit.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_hermit.png?raw=true",
     "name": "Hermit",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -215,7 +215,7 @@
   },
   {
     "id": "barnacle",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_barnacle.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_barnacle.png?raw=true",
     "name": "Barnacle",
     "edition": "HSoM",
     "team": "outsider",
@@ -229,7 +229,7 @@
   },
   {
     "id": "madfiddler",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_madfiddler.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_madfiddler.png?raw=true",
     "name": "Mad Fiddler",
     "edition": "HSoM",
     "team": "outsider",
@@ -243,7 +243,7 @@
   },
    {
     "id": "mermaid",
-     "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_mermaid.png?raw=true",
+     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_mermaid.png?raw=true",
     "name": "Mermaid",
     "edition": "HSoM",
     "team": "outsider",
@@ -257,7 +257,7 @@
   },
   {
     "id": "stowaway",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_stowaway.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_stowaway.png?raw=true",
     "name": "Stowaway",
     "edition": "HSoM",
     "team": "outsider",
@@ -271,7 +271,7 @@
   },
   {
     "id": "voodoopriestess",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_voodoopriestess.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_voodoopriestess.png?raw=true",
     "name": "Voodoo Priestess",
     "edition": "HSoM",
     "team": "minion",
@@ -285,7 +285,7 @@
   },
   {
     "id": "undeadpirate",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_undeadpirate.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_undeadpirate.png?raw=true",
     "name": "Undead Pirate",
     "edition": "HSoM",
     "team": "minion",
@@ -300,7 +300,7 @@
   },
   {
     "id": "seaspirit",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_seaspirit.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_seaspirit.png?raw=true",
     "name": "Sea Spirit",
     "edition": "HSoM",
     "team": "minion",
@@ -314,7 +314,7 @@
   },
   {
     "id": "flesheater",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_flesheater.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_flesheater.png?raw=true",
     "name": "Flesh-Eater",
     "edition": "HSoM",
     "team": "minion",
@@ -328,7 +328,7 @@
   },
   {
     "id": "davyjones",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_davyjones.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_davyjones.png?raw=true",
     "name": "Davy Jones",
     "edition": "HSoM",
     "team": "minion",
@@ -343,7 +343,7 @@
   },
   {
     "id": "kraken",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_kraken.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_kraken.png?raw=true",
     "name": "Kraken",
     "edition": "HSoM",
     "team": "demon",
@@ -357,7 +357,7 @@
   },
   {
     "id": "calypso",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_calypso.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_calypso.png?raw=true",
     "name": "Calypso",
     "edition": "HSoM",
     "team": "demon",
@@ -371,7 +371,7 @@
   },
   {
     "id": "rusalka",
-    "image": "https://https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_rusalka.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_rusalka.png?raw=true",
     "name": "Rusalka",
     "edition": "HSoM",
     "team": "demon",
