@@ -1,5 +1,10 @@
 [
-  {"bluffs":[],"edition":{"id":"HSoM","name":"High Seas of Mutiny","author":"Gordon Fitzgerald","logo":"https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/editions/hsom.png"},
+  {
+    "id":"HSoM",
+    "name":"High Seas of Mutiny",
+    "author":"Gordon Fitzgerald",
+    "logo":"https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/editions/hsom.png"
+ },
   {
     "id": "captain",
     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_captain.png?raw=true",
