@@ -119,7 +119,7 @@
     "otherNightReminder": "If the Landlubber nominated a Minion today: the Landlubber dies.",
     "reminders": ["Dead"],
     "setup": false,
-    "ability": "Each night*, if you nominated a Minion for the 1st time today, you die."
+    "ability": "Each night*, if you nominated a Minion today, you die."
   },
   {
     "id": "surgeon",
@@ -148,7 +148,7 @@
     "reminders": ["Protected",
         "Poisoned"],
     "setup": false,
-    "ability": "Each night choose a player (not the same as last night): they are safe from the Demon tonight. The player you last protected is poisoned tonight."
+    "ability": "Each night choose a player (not the same as last night): they are safe from the Demon tonight. The player you previously chose is poisoned tonight and tomorrow day."
   },
   {
     "id": "navigator",
@@ -246,7 +246,7 @@
     "otherNightReminder": "The Mad Fiddler points to a living player. That player is drunk until they nominate.",
     "reminders": ["Drunk"],
     "setup": false,
-    "ability": "If you are \u201Cmad\u201D about being an Outsider, you might be executed. Each night, chose an alive player. That player is drunk until they make a nomination."
+    "ability": "If you are \u201Cmad\u201D about being an Outsider, you might be executed. Each night, chose an alive player (not yourself). That player is drunk until they make a nomination."
   },
    {
     "id": "mermaid",
