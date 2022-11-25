@@ -15,8 +15,8 @@
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 3,
-    "otherNightReminder": "The previously protected player is no longer protected. The Captain points to a player not themself. Mark that player 'Protected'.",
-    "reminders": ["Reawake",
+    "otherNightReminder": "The previously protected player is no longer protected. The Captain points to a player. Mark that player 'Protected'.",
+    "reminders": ["",
         "Dead"],
     "setup": false,
     "ability": "Each night*, choose 2 players (not yourself). If the 1st dies tonight, the other dies instead."
@@ -188,7 +188,7 @@
     "otherNight": 0,
     "otherNightReminder": "",
     "reminders": ["Nominated"],
-    "setup": false,
+    "setup": true,
     "ability": "If only 3 players are alive & you've never nominated a player: your team wins. [+1 Outsider]"
   },
   {
@@ -202,7 +202,7 @@
     "otherNight": 4,
     "otherNightReminder": "",
     "reminders": [],
-    "setup": true,
+    "setup": false,
     "ability": "On your 1st night, choose a player: you may only vote if they vote. You only win if they win (even if dead)."
   },
   {
@@ -216,7 +216,7 @@
     "otherNight": 5,
     "otherNightReminder": "",
     "reminders": ["Drunk"],
-    "setup": false,
+    "setup": true,
     "ability": "You do not know you are Grog Blossom. You think you are a Townsfolk character, but you are not. You register as evil & as a Minion or Outsider."
   },
    {
@@ -242,8 +242,8 @@
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 20,
-    "otherNightReminder": "",
-    "reminders": [],
+    "otherNightReminder": "If Stowaway has died; show the Grimoire to a Minion for as long as needed",
+    "reminders": ["Dead"],
     "setup": false,
     "ability": "If you are \u201Cmad\u201D about being an in-play Townsfolk, you cannot die at night. When you die, a Minion sees the Grimoire each night."
   },
@@ -301,7 +301,7 @@
     "otherNight": 9,
     "otherNightReminder": "",
     "reminders": [""],
-    "setup": true,
+    "setup": false,
     "ability": "Each night*, choose a player: they are poisoned until dusk. If they die tonight, they die tomorrow night instead."
   },
   {
@@ -315,7 +315,7 @@
     "otherNight": 10,
     "otherNightReminder": "The Kraken points to a player. That player dies. If that player was the 1st Outsider killed by the Kraken, their living good neighbor dies.",
     "reminders": ["Dead"],
-    "setup": false,
+    "setup": true,
     "ability": "Each night*, choose a player: they die. The 1st time you kill an Outsider, 1 of their living good neighbors die too. [\u22121 or +1 Outsider]"
   },
   {
@@ -359,7 +359,7 @@
     "otherNightReminder": "",
     "reminders": ["",
         "Dead"],
-    "setup": false,
+    "setup": true,
     "ability": "Each night*, choose a player: they die, even if for some reason they could not. This ability malfunctions if another Demon chooses a different player. [1 Minion is Umibōzu]"
   },
    {
