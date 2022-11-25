@@ -346,7 +346,7 @@
         "Dead"],
     "setup": false,
     "ability": "You do not know what your ability is. 1 good player knows your ability. If they are \u201Cmad\u201D that the Rusalka is in play, you learn your ability. "
-  }
+  },
    {
     "id": "umibozu",
     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_Umibōzu.png?raw=true",
@@ -361,7 +361,7 @@
         "Dead"],
     "setup": false,
     "ability": "Each night*, choose a player: they die, even if for some reason they could not. This ability malfunctions if another Demon chooses a different player. [1 Minion is Umibōzu]"
-  }
+  },
    {
     "id": "bilgerat",
     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_bilge-rat.png?raw=true",
@@ -376,7 +376,7 @@
         "Dead"],
     "setup": false,
     "ability": "Once per game, at night, choose a dead player: their ghost vote counts as 3 votes."
-  }
+  },
    {
     "id": "scruveyscalawag",
     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_scurvy-scalywag.png?raw=true",
@@ -391,7 +391,7 @@
         "Dead"],
     "setup": false,
     "ability": "Each night, choose a player (not yourself): they get a 1d6 vote die. Tomorrow, if they vote, their vote counts the number rolled. A 6 executes themselves."
-  }
+  },
    {
     "id": "commodore",
     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_commodore.png?raw=true",
@@ -406,7 +406,7 @@
         "Dead"],
     "setup": false,
     "ability": "Once per game, publically choose a player that talked like a pirate today. If they are a different alignment than you, they die."
-  }
+  },
    {
     "id": "cursedmutineer",
     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_cursed-mutineer.png?raw=true",
@@ -421,7 +421,7 @@
         "Dead"],
     "setup": false,
     "ability": "If there is a dead player in-play, only you & dead players can nominate."
-  }
+  },
    {
     "id": "castaway",
     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_castaway.png?raw=true",
