@@ -390,7 +390,7 @@
     "reminders": ["",
         "Dead"],
     "setup": false,
-    "ability": "Each night, choose a player (not yourself): they get a ‘ 1d6 vote die.” Tomorrow, if they vote, their vote counts the number rolled. A 6 executes themselves."
+    "ability": "Each night, choose a player (not yourself): they get a 1d6 vote die. Tomorrow, if they vote, their vote counts the number rolled. A 6 executes themselves."
   }
    {
     "id": "commodore",
