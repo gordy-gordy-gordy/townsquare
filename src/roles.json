@@ -4,11 +4,11 @@
     "name": "High Seas of Mutiny",
     "author": "Gordon Fitzgerald",
     "edition": "HSoM",
-    "logo": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/editions/hsom.png?raw=true"
+    "logo": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/editions/new_hsom_logo.png?raw=true"
   },
   {
     "id": "captain",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_captain.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_captain.png?raw=true",
     "name": "Captain",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -19,11 +19,11 @@
     "reminders": ["Reawake",
         "Dead"],
     "setup": false,
-    "ability": "Each night*, choose a player other than yourself. If that player dies tonight, you re-awake & may choose another player to die instead."
+    "ability": "Each night*, choose 2 players (not yourself). If the 1st dies tonight, the other dies instead."
   },
     {
     "id": "privateer",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_privateer.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_privateer.png?raw=true",
     "name": "Privateer",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -34,11 +34,11 @@
     "reminders": ["Reawake",
         "Dead"],
     "setup": false,
-    "ability": "Each night*, choose 2 players (not yourself). If they are different alignments, you die."
+    "ability": "Each night*, choose 2 players (not yourself): if they are different alignments, you die."
   },
   {
     "id": "oldseadog",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_oldseadog.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_old-sea-dog.png?raw=true",
     "name": "Old Seadog",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -52,7 +52,7 @@
   },
   {
     "id": "buccaneer",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_buccaneer.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_buccaneer.png?raw=true",
     "name": "Buccaneer",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -67,7 +67,7 @@
   },
   {
     "id": "firstmate",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_firstmate.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_first-mate.png?raw=true",
     "name": "First Mate",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -80,22 +80,8 @@
     "ability": "On your 1st night, choose ‘R’, ‘I’ or ‘C’. Learn how many in-play characters\u2019 names contain that letter."
   },
   {
-    "id": "gunner",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_gunner.png?raw=true",
-    "name": "Gunner",
-    "edition": "HSoM",
-    "team": "townsfolk",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 14,
-    "otherNightReminder": "The Gunner points to a player who nominated today. If that player is a Minion, the Gunner dies.",
-    "reminders": ["Dead"],
-    "setup": false,
-    "ability": "Once per game, at night, choose a player who nominated today. If they are a Minion, they die."
-  },
-  {
     "id": "powdermonkey",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_powdermonkey.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_powder-monkey.png?raw=true",
     "name": "Powder Monkey",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -105,11 +91,11 @@
     "otherNightReminder": "",
     "reminders": ["Dead"],
     "setup": false,
-    "ability": "On your 1st day, publicly choose 2 players. If either is a Minion: you & they die tonight."
+    "ability": "On your 1st day, publicly choose 2 players: if either is a Minion: you & they die tonight."
   },
   {
     "id": "landlubber",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_landlubber.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_landlubber.png?raw=true",
     "name": "Landlubber",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -123,7 +109,7 @@
   },
   {
     "id": "surgeon",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_surgeon.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_surgeon.png?raw=true",
     "name": "Surgeon",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -133,26 +119,11 @@
     "otherNightReminder": "If the Surgeon was nominated today and not executed: mark the player that made that nomination 'Protected'.",
     "reminders": ["Protected"],
     "setup": false,
-    "ability": "Each night*, if a player nominated you & you were not executed today, they are safe from the Demon."
-  },
-  {
-    "id": "cook",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_cook.png?raw=true",
-    "name": "Cook",
-    "edition": "HSoM",
-    "team": "townsfolk",
-    "firstNight": 3,
-    "firstNightReminder": "The previously protected player is no longer protected and is now poisoned. Mark that player 'Poisoned'. The Cook points to a player different from the previous night. Mark that player 'Protected'.",
-    "otherNight": 6,
-    "otherNightReminder": "The previously protected player is no longer protected and is now poisoned. Mark that player 'Poisoned'. The Cook points to a player different from the previous night. Mark that player 'Protected'.",
-    "reminders": ["Protected",
-        "Poisoned"],
-    "setup": false,
-    "ability": "Each night choose a player (not the same as last night): they are safe from the Demon tonight. The player you previously chose is poisoned tonight and tomorrow day."
+    "ability": "If a player (not yourself) nominated you today, that player is safe from the Demon tonight."
   },
   {
     "id": "navigator",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_navigator.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_navigator.png?raw=true",
     "name": "Navigator",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -166,7 +137,7 @@
   },
   {
     "id": "boatswain",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_boatswain.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_boatswain.png?raw=true",
     "name": "Boatswain",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -180,7 +151,7 @@
   },
   {
     "id": "wench",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_wench.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_wench.png?raw=true",
     "name": "Wench",
     "edition": "HSoM",
     "team": "townsfolk",
@@ -190,7 +161,7 @@
     "otherNightReminder": "Wake the Wench if a player would die, but does not because of an ability.",
     "reminders": [],
     "setup": false,
-    "ability": "You wake after any player would die, but doesn’t because of an ability."
+    "ability": "Each night*, learn how many players would have died, but didn't beacuse protection from an ability."
   },
   {
     "id": "smuggler",
@@ -207,50 +178,50 @@
     "ability": "If you die at night, choose a player & a Townsfolk: if not the Demon, they become that Townsfolk."
   },
   {
-    "id": "hermit",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_hermit.png?raw=true",
-    "name": "Hermit",
+    "id": "hermitcrab",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_hermit-crab.png?raw=true",
+    "name": "Hermit Crab",
     "edition": "HSoM",
     "team": "townsfolk",
     "firstNight": 12,
-    "firstNightReminder": "If the Hermit was nominated today, they cannot die tonight",
+    "firstNightReminder": "",
     "otherNight": 0,
     "otherNightReminder": "",
     "reminders": ["Nominated"],
     "setup": false,
-    "ability": "If you are \u201Cmad\u201D about being an Hermit, you might be executed. You cannot die at night if you were nominated the previous day. If only 4 players are alive & you’ve never been nominated: good wins."
+    "ability": "If only 3 players are alive & you've never nominated a player: your team wins. [+1 Outsider]"
   },
   {
     "id": "barnacle",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_barnacle.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_Barnacle.png?raw=true",
     "name": "Barnacle",
     "edition": "HSoM",
     "team": "outsider",
     "firstNight": 1,
-    "firstNightReminder": "Show the Barnacle the arbitrary Demon player. If the token received by the Baranacle is a Minon that would wake tonight: Allow the Barnacle to do the Minion actions. Place their markers. Wake the Demon. Show them the Barnacle player. If the Barnacle targets players: Show the real demon each marked player. Remove any Barnacle markers.",
+    "firstNightReminder": "Place Barnacle marker.",
     "otherNight": 4,
-    "otherNightReminder": "Allow the Barnacle to do the actions of the Minion. Place their markers. If the Barnacle selected players: Wake the Demon. Show the marker, then point to each marked player. Remove any Barnacle markers.",
+    "otherNightReminder": "",
     "reminders": [],
     "setup": true,
-    "ability": "You think you are a Minion, but you are not. The Demon knows who you are & who you choose at night."
+    "ability": "On your 1st night, choose a player: you may only vote if they vote. You only win if they win (even if dead)."
   },
   {
-    "id": "madfiddler",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_madfiddler.png?raw=true",
-    "name": "Mad Fiddler",
+    "id": "grogblossom",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_Bilge-Grog-Drunkard.png?raw=true",
+    "name": "Grog Blossom",
     "edition": "HSoM",
     "team": "outsider",
     "firstNight": 2,
-    "firstNightReminder": "The Mad Fiddler points to a living player. That player is drunk until they nominate.",
+    "firstNightReminder": "",
     "otherNight": 5,
-    "otherNightReminder": "The Mad Fiddler points to a living player. That player is drunk until they nominate.",
+    "otherNightReminder": "",
     "reminders": ["Drunk"],
     "setup": false,
-    "ability": "If you are \u201Cmad\u201D about being an Outsider, you might be executed. Each night, chose an alive player (not yourself). That player is drunk until they make a nomination."
+    "ability": "You do not know you are Grog Blossom. You think you are a Townsfolk character, but you are not. You register as evil & as a Minion or Outsider."
   },
    {
     "id": "mermaid",
-     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_mermaid.png?raw=true",
+     "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_mermaid.png?raw=true",
     "name": "Mermaid",
     "edition": "HSoM",
     "team": "outsider",
@@ -260,25 +231,25 @@
     "otherNightReminder": "Raise hand.",
     "reminders": [],
     "setup": false,
-    "ability": "Each night*, raise your hand. If the Demon chooses you: they die & you become the evil Demon."
+    "ability": "Players (not yourself or the Demon) that nominate you are drunk until you are nominated again, even if you are dead."
   },
   {
     "id": "stowaway",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_stowaway.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_stowaway.png?raw=true",
     "name": "Stowaway",
     "edition": "HSoM",
     "team": "outsider",
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 20,
-    "otherNightReminder": "Nod 'yes' or shake head 'no' for whether a Minion woke tonight.",
+    "otherNightReminder": "",
     "reminders": [],
     "setup": false,
-    "ability": "Each night*,  learn if a Minon woke tonight. You might register as evil & as a Minion or Demon."
+    "ability": "If you are \u201Cmad\u201D about being an in-play Townsfolk, you cannot die at night. When you die, a Minion sees the Grimoire each night."
   },
   {
     "id": "voodoopriestess",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_voodoopriestess.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_voodoo.png?raw=true",
     "name": "Voodoo Priestess",
     "edition": "HSoM",
     "team": "minion",
@@ -292,22 +263,22 @@
   },
   {
     "id": "undeadpirate",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_undeadpirate.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_undead-pirate.png?raw=true",
     "name": "Undead Pirate",
     "edition": "HSoM",
     "team": "minion",
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 8,
-    "otherNightReminder": "The Undead Pirate either shows a 'no' head signal, or points to a neighbor player. That player dies.",
+    "otherNightReminder": "",
     "reminders": ["No Ability",
         "Dead"],
     "setup": false,
-    "ability": "The 1st time you die: you live, but register as dead. Once per game at night*, choose a neighbor: they die."
+    "ability": "After you are executed & die, tonight you may choose a living good neighbour: they die."
   },
   {
     "id": "seaspirit",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_seaspirit.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_sea-spirit.png?raw=true",
     "name": "Sea Spirit",
     "edition": "HSoM",
     "team": "minion",
@@ -317,78 +288,153 @@
     "otherNightReminder": "",
     "reminders": ["Beloved"],
     "setup": false,
-    "ability": "You start knowing who is a particular Townsfolk. If only that Townsfolk, the Demon, & you live: evil wins."
+    "ability": "On your 1st night, choose a good player: they are poisoned. If they live while just 3 players live, evil wins (even if dead)."
   },
   {
     "id": "flesheater",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_flesheater.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_flesh-eater.png?raw=true",
     "name": "Flesh-Eater",
     "edition": "HSoM",
     "team": "minion",
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 9,
-    "otherNightReminder": "If an nominated player was executed today: The Flesh-Eater points to a player. That player dies.",
-    "reminders": ["Dead"],
+    "otherNightReminder": "",
+    "reminders": [""],
     "setup": true,
-    "ability": "Each night*, if you nominated a player who was executed today, choose a player: they die."
-  },
-  {
-    "id": "davyjones",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_davyjones.png?raw=true",
-    "name": "Davy Jones",
-    "edition": "HSoM",
-    "team": "minion",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 7,
-    "otherNightReminder": "The Davy Jones points to a player. If that player dies tonight: that player is poisoned instead and dies the following night.",
-    "reminders": ["Poisoned",
-        "Dead"],
-    "setup": true,
-    "ability": "Each night*, choose a player: if they die tonight, they are instead poisoned & die the following night."
+    "ability": "Each night*, choose a player: they are poisoned until dusk. If they die tonight, they die tomorrow night instead."
   },
   {
     "id": "kraken",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_kraken.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_kraken.png?raw=true",
     "name": "Kraken",
     "edition": "HSoM",
     "team": "demon",
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 10,
-    "otherNightReminder": "The Kraken points to a player. That player dies. If there were even nominations today the Kraken points at 2 players instead.",
+    "otherNightReminder": "The Kraken points to a player. That player dies. If that player was the 1st Outsider killed by the Kraken, their living good neighbor dies.",
     "reminders": ["Dead"],
     "setup": false,
-    "ability": "Each night*, choose a player: they die. If there were even nominations today, instead choose 2 players tonight."
+    "ability": "Each night*, choose a player: they die. The 1st time you kill an Outsider, 1 of their living good neighbors die too. [\u22121 or +1 Outsider]"
   },
   {
     "id": "calypso",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_calypso.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_calypso.png?raw=true",
     "name": "Calypso",
     "edition": "HSoM",
     "team": "demon",
     "firstNight": 0,
-    "firstNightReminder": "",
+    "firstNightReminder": "Write down the word chosen by Calypso. Mark players through-out the day.",
     "otherNight": 11,
-    "otherNightReminder": "The Calypso points to a Townsfolk character on the sheet. If that character is in play, point to that player. Calypso points to that player\u2019s neighbor. That neighbor dies.",
-    "reminders": ["Dead"],
+    "otherNightReminder": "Write down the word chosen by Calypso. Mark players through-out the day.",
+    "reminders": [""],
     "setup": false,
-    "ability": "Each night*, choose a Townsfolk: If in play, you learn who they are. Choose that Townsfolk’s neighbor: they die."
+    "ability": "Each night, choose a word. Tomorrow, players that publically say that word might die at night or be poisoned. Good might lose if players actively don’t talk."
   },
   {
     "id": "rusalka",
-    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/hsom_rusalka.png?raw=true",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_rusalka.png?raw=true",
     "name": "Rusalka",
     "edition": "HSoM",
     "team": "demon",
     "firstNight": 4,
-    "firstNightReminder": "The Rusalka points to a player. If that player nominates tomorrow, they die that night.",
+    "firstNightReminder": "Decide the Rusalka's entire ability. Show marked good player Ruslka ability. If the Rusalka's ability causes them to wake tonight: Wake the Rusalka and run their ability.",
     "otherNight": 12,
-    "otherNightReminder": "The Rusalka points to a player. If that player nominates tomorrow, they die that night.",
+    "otherNightReminder": "If the Rusalka's ability causes them to wake tonight: Wake the Rusalka and run their ability.",
     "reminders": ["Cursed",
         "Dead"],
     "setup": false,
-    "ability": "Each night, choose a player: if they nominate tomorrow, they die that night. The 1st time you die, you live but register as dead. Each day, if no-one is nominated, evil wins."
+    "ability": "You do not know what your ability is. 1 good player knows your ability. If they are \u201Cmad\u201D that the Rusalka is in play, you learn your ability. "
+  }
+   {
+    "id": "umibozu",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_Umibōzu.png?raw=true",
+    "name": "Umibōzu",
+    "edition": "HSoM",
+    "team": "demon",
+    "firstNight": 0,
+    "firstNightReminder": "Show YOU ARE Umibōzu marker to Minion",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["",
+        "Dead"],
+    "setup": false,
+    "ability": "Each night*, choose a player: they die, even if for some reason they could not. This ability malfunctions if another Demon chooses a different player. [1 Minion is Umibōzu]"
+  }
+   {
+    "id": "bilgerat",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_bilge-rat.png?raw=true",
+    "name": "Bilge Rat",
+    "edition": "HSoM",
+    "team": "traveler",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["",
+        "Dead"],
+    "setup": false,
+    "ability": "Once per game, at night, choose a dead player: their ghost vote counts as 3 votes."
+  }
+   {
+    "id": "scruveyscalawag",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_scurvy-scalywag.png?raw=true",
+    "name": "Scurvy Scalawag",
+    "edition": "HSoM",
+    "team": "traveler",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["",
+        "Dead"],
+    "setup": false,
+    "ability": "Each night, choose a player (not yourself): they get a ‘ 1d6 vote die.” Tomorrow, if they vote, their vote counts the number rolled. A 6 executes themselves."
+  }
+   {
+    "id": "commodore",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_commodore.png?raw=true",
+    "name": "Commodore",
+    "edition": "HSoM",
+    "team": "traveler",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["",
+        "Dead"],
+    "setup": false,
+    "ability": "Once per game, publically choose a player that talked like a pirate today. If they are a different alignment than you, they die."
+  }
+   {
+    "id": "cursedmutineer",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_cursed-mutineer.png?raw=true",
+    "name": "Cursed Mutineer",
+    "edition": "HSoM",
+    "team": "traveler",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["",
+        "Dead"],
+    "setup": false,
+    "ability": "If there is a dead player in-play, only you & dead players can nominate."
+  }
+   {
+    "id": "castaway",
+    "image": "https://github.com/gordy-gordy-gordy/townsquare/blob/develop/src/assets/icons/new_hsom_castaway.png?raw=true",
+    "name": "Castaway",
+    "edition": "HSoM",
+    "team": "traveler",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["",
+        "Dead"],
+    "setup": false,
+    "ability": "If you cast a ghost vote today, you gain an in-play ability (even if dead). You can't call for your own exile."
   }
 ]
